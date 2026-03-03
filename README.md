@@ -45,3 +45,5 @@ The graph below compares the PDF of the **Real Transformed Data** (Blue) with th
 1. Open the notebook in Google Colab.
 2. Run the cells sequentially to generate the synthetic data, train the GAN, and visualize the PDF.
 3. No external dataset upload is required as data is generated internally.
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
