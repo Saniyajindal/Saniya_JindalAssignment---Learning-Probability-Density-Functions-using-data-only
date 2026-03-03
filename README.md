@@ -1,6 +1,6 @@
 # 📈 GAN-based Probability Density Function Estimation
 **Course:** UCS761: Deep Networks & Gradient Flow  
-**Student:** Saniya Jindal  
+**Name:** Saniya Jindal  
 **University:** Thapar Institute of Engineering and Technology (TIET)  
 **Roll Number:** 102303183  
 
